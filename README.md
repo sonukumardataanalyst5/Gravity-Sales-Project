@@ -23,7 +23,7 @@ A Superstore runs a **yearly Gold Membership campaign** offering **20% discount*
 
 ## 🔗 Live Demo
 
-> **[Click here to view the live dashboard](YOUR_RENDER_URL_HERE)**
+> **[Click here to view the live dashboard](https://gravity-sales-project.onrender.com/)**
 
 ---
 
